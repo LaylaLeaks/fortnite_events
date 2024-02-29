@@ -47,7 +47,8 @@ All Earthquake (Season 28)
 - 02/29/2024 | 04 p.m (45) - CRACK 5 VON 5
 - 02/29/2024 | 05 p.m (46)
 - 02/29/2024 | 06 p.m (47)
-- 02/29/2024 | 07 p.m (48) - TITAN HAND
+- 02/29/2024 | 07 p.m (48)
+- 02/29/2024 | 08 p.m (49) - TITAN HAND
 
 - STAGES - 
 
@@ -56,7 +57,7 @@ All Earthquake (Season 28)
 - Earthquake #27 (Stage 3 of 5) => 02/28/2024 | 10 p.m Uhr
 - Earthquake #36 (Stage 4 of 5) => 02/29/2024 | 07 a.m Uhr
 - Earthquake #45 (Stage 5 of 5) => 02/29/2024 | 04 p.m Uhr
-- Earthquake #48 (The Titan Hand) => 02/29/2024 | 07 p.m Uhr
+- Earthquake #48 (The Titan Hand) => 02/29/2024 | 08 p.m Uhr
 
 - Info -
 date format MM/DD/YYYY
