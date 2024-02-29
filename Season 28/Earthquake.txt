@@ -49,16 +49,17 @@ All Earthquake (Season 28)
 - 02/29/2024 | 06 p.m (47)
 - 02/29/2024 | 07 p.m (48)
 - 02/29/2024 | 08 p.m (49)
-- 02/29/2024 | 09 p.m (50) - TITAN HAND
+- 02/29/2024 | 09 p.m (50)
+- 02/29/2024 | 10 p.m (51)
 
 - STAGES - 
 
-- Earthquake #09 (Stage 1 of 5) => 02/28/2024 | 04 a.m Uhr
-- Earthquake #18 (Stage 2 of 5) => 02/28/2024 | 01 p.m Uhr
-- Earthquake #27 (Stage 3 of 5) => 02/28/2024 | 10 p.m Uhr
-- Earthquake #36 (Stage 4 of 5) => 02/29/2024 | 07 a.m Uhr
-- Earthquake #45 (Stage 5 of 5) => 02/29/2024 | 04 p.m Uhr
-- Earthquake #49 (The Titan Hand) => 02/29/2024 | 09 p.m Uhr
+- Earthquake #09 (Stage 1 of 5) => 02/28/2024 | 04 a.m 
+- Earthquake #18 (Stage 2 of 5) => 02/28/2024 | 01 p.m 
+- Earthquake #27 (Stage 3 of 5) => 02/28/2024 | 10 p.m 
+- Earthquake #36 (Stage 4 of 5) => 02/29/2024 | 07 a.m 
+- Earthquake #45 (Stage 5 of 5) => 02/29/2024 | 04 p.m 
+- Earthquake #?? (The Titan Hand) => 02/29/2024 | ?? p.m/a.m.
 
 - Info -
 date format MM/DD/YYYY
