@@ -108,3 +108,4 @@ All Earthquake (Season 28)
 
 - Info -
 date format MM/DD/YYYY
+timezone: CET
